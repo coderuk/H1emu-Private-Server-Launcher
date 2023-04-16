@@ -12,14 +12,14 @@ To download and install the H1emu Private Server Launcher, follow these steps:
     Extract the zip file to a location of your choice.
     Run the executable file.
 
-Features to come
-
-The H1emu Private Server Launcher comes with a variety of features, including:
-
-    Ability to connect to multiple servers
+Features to come:
     Automatic updates for the launcher
-    Server passwords NOT AUTHKEYS
-    And much more!
+    
+    
+Current Features:
+    Ability to connect to multiple servers
+    Server passwords NOT AUTHKEYS are used for increased protection
+    
 
 Contributing
 
